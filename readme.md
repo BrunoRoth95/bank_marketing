@@ -4,8 +4,9 @@ Bank Marketing case made by Bruno Roth Vasconcellos
 
 ## Prerequisites
 
-python 3.7
-jupyter notebook OR jupyter lab
+- python 3.7
+
+- jupyter notebook OR jupyter lab
 
 ## Installing
 
