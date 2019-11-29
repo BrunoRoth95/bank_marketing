@@ -18,4 +18,4 @@ pip install -r requirements.txt
 
 ## Running the notebook
 
-Open bank_case.ipynb with jupyter notebook or jupyter lab
+Clone this repository and run bank_case.ipynb with jupyter notebook or jupyter lab
